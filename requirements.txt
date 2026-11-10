@@ -1,0 +1,4 @@
+openai>=1.40
+coinbase-advanced-py>=1.7
+python-dotenv>=1.0
+flask>=3.0
